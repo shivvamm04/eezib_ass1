@@ -24,7 +24,7 @@ function Signup(props) {
             </div>
             <button type="submit" className="btn btn-primary mt-3" > Sign up</button>
             <br/>
-            <p className="mt-3">Have an account ? <a href="#" onClick={props.switch}>Login</a></p>
+            <p className="mt-3">Have an account ? <a  onClick={props.switch}>Login</a></p>
         </form>
 
     </div>
