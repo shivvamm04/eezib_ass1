@@ -1,5 +1,5 @@
 import './App.css';
-import React, { useState,useEffect } from 'react';
+import React, { useState} from 'react';
 import Users from './users';
 import Header from './header';
 import Individual from './individual';
